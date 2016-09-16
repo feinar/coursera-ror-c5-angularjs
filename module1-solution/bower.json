@@ -1,0 +1,17 @@
+{
+  "name": "Lunch Checker",
+  "homepage": "https://feinar.github.io/coursera-ror-c5-angularjs/module1-solution/",
+  "authors": [
+    "feinar"
+  ],
+  "description": "App for checking dishes for lunch",
+  "main": "index.html",
+  "keywords": [
+    "lunch",
+    "check"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.8"
+  }
+}
